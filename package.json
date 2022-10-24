@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/Cloud-Xero/graphql-news-api#readme",
   "dependencies": {
+    "@prisma/client": "^4.5.0",
     "apollo-server": "^2.26.0",
     "graphql": "^14.7.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.5.0"
   }
 }
