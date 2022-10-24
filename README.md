@@ -1,0 +1,2 @@
+- visualize
+  `npx prisma studio`
